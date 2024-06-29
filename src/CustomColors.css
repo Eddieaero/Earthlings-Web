@@ -1,0 +1,27 @@
+:root {
+    --custom-white:#DAE1D7;
+    --custom-bg-white: #BDBCBC;
+    --custom-grey-100: rgba(80, 101, 84);
+    --custom-grey-25: rgba(80, 101, 84, 0.25);
+    --custom-grey-50: rgba(80, 101, 84, 0.5);
+    --whitish-green: #D7FFC5;
+    --darkish-green: #506554;
+    --light-green: #2ED234;
+    --primary-green: #4CD964;
+    --plain-white: #FFFFFF;
+    --next-white: #F9F9F9;
+    --plain-black: #000000;
+    --dark-blue: #2B3444;
+    /* Define other custom colors */
+  }
+
+  body {
+    font-family: 'Open Sans', sans-serif;
+  }
+/* 
+
+  Primary brand colours;
+  HEX Code: #10452e
+  HEX Code: #e2c24c
+  HEX Code: #FFFFFF
+  HEX Code: #C3C3C3 */
